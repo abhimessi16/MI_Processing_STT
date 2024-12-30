@@ -1,0 +1,11 @@
+fastapi[standard]
+transformers
+ffmpeg
+ffprobe-python
+datasets
+librosa
+soundfile
+torch
+tensorflow
+flax
+uvicorn
