@@ -1,6 +1,5 @@
 from transformers import WhisperProcessor, WhisperForConditionalGeneration
 from fastapi import FastAPI
-import uvicorn
 
 from app.routes.stt_route import stt_router
 
